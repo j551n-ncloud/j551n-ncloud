@@ -19,8 +19,8 @@ Johannes Nguyen<br>IT Technician, System Administrator,<br>Apprentice & Homelab 
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/output/github-snake-dark.svg](https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/refs/heads/output/github-snake-dark.svg)" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/refs/heads/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/output/github-snake.svg" />
 </picture>
 
