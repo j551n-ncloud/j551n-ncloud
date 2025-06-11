@@ -17,4 +17,11 @@ Johannes Nguyen<br>IT Technician, System Administrator,<br>Apprentice & Homelab 
 ---
 [![](https://visitcount.itsvg.in/api?id=j551n-ncloud&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/output/github-snake.svg" />
+</picture>
+
+
+
