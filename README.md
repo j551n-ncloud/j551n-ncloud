@@ -3,6 +3,63 @@ Johannes Nguyen<br>IT Technician, System Administrator,<br>Apprentice & Homelab 
 <br>This is my Homepage [webpage](https://j551n.com)<br>
 
 
+**IT Technician, System Administrator, Apprentice & Homelab Enthusiast**  
+Currently working at the German Cancer Research Center
+
+---
+
+## 🧑‍💻 About Me
+
+- 🚀 Apprentice System Integrator at the German Cancer Research Center (DKFZ)
+- 💡 Passionate about Linux, virtualization, and infrastructure as code (IaC)
+- 🖥️ Active Linux user for 4+ years—Debian, Ubuntu, CentOS
+- 🤝 Open-source advocate and community supporter
+- 🏗️ Strong focus on VM administration, DevOps, and fullstack web development
+
+---
+
+## 🛠️ Skills & Tech Stack
+
+| Area                  | Tools & Technologies                                                         |
+|-----------------------|------------------------------------------------------------------------------|
+| **System Admin**      | Linux & Windows (Debian, Ubuntu, CentOS, RHEL, auditd, systemd), Proxmox, VMware |
+| **DevOps**            | Docker, Kubernetes, Ansible, CI/CD (GitHub Actions, GitLab CI/CD)            |
+| **Virtualization**    | Proxmox, VMware, LXC, Ceph, GPU Passthrough, Clustering                      |
+| **Networking**        | LACP, VLANs, Routing, IPAM, Netbox                                           |
+| **Fullstack Dev**     | TypeScript, JavaScript, Vite, Express, Supabase                              |
+| **Monitoring**        | Grafana, proactive server maintenance                                        |
+| **Automation**        | Bash scripting, Ansible playbooks, AWX integration                           |
+| **Other**             | Dell PowerEdge/iDRAC, BookStack, Nextcloud, Vaultwarden                      |
+
+---
+
+## 📦 Featured Projects & Services
+
+- [Anki Card Creator](https://anki.j551n.com) — AI-powered flashcard generator
+- [Minecraft Server Management](https://mc.j551n.com) — Secure, high-performance MC hosting
+- [Nextcloud Hosting](https://cloud.j551n.com) — GDPR-compliant cloud storage
+- [BookStack Documentation](https://bookstack.j551n.com) — Team documentation platform
+- [Mealie Recipe Management](https://recipe.j551n.com) — Meal planning and sharing
+- [Grafana Monitoring](https://monitor.j551n.com) — Custom interactive dashboards
+- [SiYuan Notes](https://notes.j551n.com) — Rich note-taking and sync
+- [Docker Registry](https://repo.j551n.com) — Secure image storage for CI/CD
+- [Vaultwarden](https://vault.j551n.com) — Password management
+- [GitLab](https://gitlab.j551n.com) — Private code hosting & CI/CD
+- [IT Tools](https://tools.j551n.com) — Collection of handy IT utilities
+- [Docuseal](https://sign.j551n.com) — Secure digital document signing
+
+## ⚡ Fun Facts & Interests
+
+- 🏡 Homelab enthusiast—managing complex personal infrastructure
+- 🕹️ Gaming, especially Minecraft server customization
+- 🍜 Foodie & recipe sharer, loves experimenting in the kitchen
+- 🌍 Multicultural background, fluent in German and English
+
+---
+
+> "Passionate about making technology accessible, reliable, and fun!"
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/johannesquangminh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johannes-nguyen@j551n.com) 
 
