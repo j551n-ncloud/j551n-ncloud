@@ -1,5 +1,4 @@
 # 💫 About Me:
-Johannes Nguyen<br>IT Technician, System Administrator,<br>Apprentice & Homelab Enthusiast<br>Passionate about Linux, virtualization, and infrastructure as code.<br>Currently working at the German Cancer Research Center.
 <br>This is my Homepage [webpage](https://j551n.com)<br>
 
 
