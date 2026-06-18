@@ -1,6 +1,6 @@
 # Johannes Nguyen
 
-IT Technician & Homelab Enthusiast — Apprentice IT Specialist at the German Cancer Research Center (DKFZ)
+IT Technician & Homelab Enthusiast Apprentice IT Specialist at the German Cancer Research Center (DKFZ)
 
 [j551n.com](https://j551n.com) · [blog.j551n.com](https://blog.j551n.com) · [gitlab.j551n.com](https://gitlab.j551n.com) · [johannes.nguyen@j551n.com](mailto:johannes.nguyen@j551n.com)
 
