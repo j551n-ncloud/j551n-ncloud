@@ -8,7 +8,7 @@ IT Technician & Homelab Enthusiast Apprentice IT Specialist at the German Cancer
 
 ## About
 
-System administrator focused on automation, infrastructure, and self-hosted services. Currently completing an apprenticeship as IT Specialist at DKFZ Heidelberg, working on Linux systems, virtualization, and internal tooling.
+System administrator focused on automation, infrastructure, and self-hosted services. Currently employed as IT Specialist at DKFZ Heidelberg, working on Linux systems, virtualization, and internal tooling.
 
 3+ years hands-on with Linux · 50+ VMs managed · 12+ self-hosted services in production
 
