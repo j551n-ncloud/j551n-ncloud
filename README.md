@@ -33,8 +33,6 @@ System administrator focused on automation, infrastructure, and self-hosted serv
 | GitLab | [gitlab.j551n.com](https://gitlab.j551n.com) |
 | Docker Registry | [repo.j551n.com](https://repo.j551n.com) |
 | Documentation | [docu.j551n.com](https://docu.j551n.com) |
-| Monitoring | [monitor.j551n.com](https://monitor.j551n.com) |
-| Vaultwarden | [vault.j551n.com](https://vault.j551n.com) |
 
 ---
 
