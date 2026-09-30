@@ -1,47 +1,33 @@
 # Johannes Nguyen
 
-IT Technician & Homelab Enthusiast Apprentice IT Specialist at the German Cancer Research Center (DKFZ)
+IT Specialist for System Integration (IHK) at the German Cancer Research Center (DKFZ) in Heidelberg.
+Linux, Ansible and Kubernetes for research infrastructure, from the HPC cluster to the datacenter rack.
 
-[j551n.com](https://j551n.com) · [blog.j551n.com](https://blog.j551n.com) · [gitlab.j551n.com](https://gitlab.j551n.com) · [johannes.nguyen@j551n.com](mailto:johannes.nguyen@j551n.com)
+[j551n.com](https://j551n.com) · [Blog](https://blog.j551n.com) · [LinkedIn](https://www.linkedin.com/in/johannesquangminh) · [johannes.nguyen@j551n.com](mailto:johannes.nguyen@j551n.com)
 
----
+## Projects
 
-## About
-
-System administrator focused on automation, infrastructure, and self-hosted services. Currently employed as IT Specialist at DKFZ Heidelberg, working on Linux systems, virtualization, and internal tooling.
-
-3+ years hands-on with Linux · 50+ VMs managed · 12+ self-hosted services in production
-
----
+| Project | What it is | |
+|---|---|---|
+| [claude-telegram](https://github.com/j551n-ncloud/claude-telegram) | Claude Code over Telegram: voice notes in, reads by default, every write behind a confirm button | [Blog](https://blog.j551n.com/claude-code-in-telegram-voice-notes-in-every-write-behind-a-button/) |
+| [glance-public](https://github.com/j551n-ncloud/glance-public) | Dashboard and assistant backend with a remote MCP server: calendar, tasks, notes with hybrid RAG search, training | [Blog](https://blog.j551n.com/from-dashboard-to-assistant-backend-glance-with-73-mcp-tools/) |
+| [systemd-resource-control](https://github.com/j551n-ncloud/systemd-resource-control) | Ansible role for per-user CPU and RAM limits via systemd slices and PAM, in production on an HPC cluster | [Blog](https://blog.j551n.com/per-user-cpu-and-ram-limits-on-shared-cluster-nodes-with-systemd-and-pam/) |
+| [git-iac](https://github.com/j551n-ncloud/git-iac) | Self-hosted GitOps: separate build and deploy pipelines, Harbor with Trivy, Proxmox snapshot before every deploy | [Blog](https://blog.j551n.com/two-repos-one-pipeline-self-hosted-gitops-with-gitlab-ci-harbor-and-ansible/) |
+| [homepage](https://github.com/j551n-ncloud/homepage) | This portfolio: Next.js, German and English, cookieless analytics, deployed through the pipeline above | [j551n.com](https://j551n.com) |
+| [blok-berichtsheft-mcp](https://github.com/j551n-ncloud/blok-berichtsheft-mcp) | MCP server that fills out the BLok Ausbildungsnachweis via Playwright, since BLok has no API | |
 
 ## Skills
 
 | Area | Tools |
 |---|---|
-| Infrastructure | Linux, Proxmox, VMware, Kubernetes, Docker, LXC, Ceph |
-| Networking | VLANs, LACP, pfSense, Cloudflare, Netbox, IPAM |
-| Automation | Ansible, AWX, GitLab CI/CD, GitHub Actions, Bash |
-| Development | TypeScript, Next.js, React, Python, Bash |
-| Monitoring | Grafana, InfluxDB, Prometheus |
+| Linux & HPC | RHEL, Debian, systemd, IBM LSF, IBM ESS, Dell iDRAC |
+| Automation | Ansible, AWX, GitLab CI/CD, GitHub Actions, Kickstart |
+| Containers & virtualization | Kubernetes (k3s, Helm), Docker, Harbor, Proxmox VE and PBS, VMware ESXi |
+| Identity & security | LDAP/AD, ADFS, OIDC/SSO, CrowdSec, Trivy |
+| Observability | Loki, Grafana Alloy, Grafana, Prometheus, Checkmk |
+| Development & AI | Python, TypeScript, Node.js, RAG, MCP |
 
----
-
-## Services
-
-| Service | URL |
-|---|---|
-| GitLab | [gitlab.j551n.com](https://gitlab.j551n.com) |
-| Docker Registry | [repo.j551n.com](https://repo.j551n.com) |
-| Documentation | [docu.j551n.com](https://docu.j551n.com) |
-
----
-
-## Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=j551n-ncloud&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=j551n-ncloud&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+Self-hosted: [GitLab](https://gitlab.j551n.com) · [Docs](https://docu.j551n.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/j551n-ncloud/j551n-ncloud/output/github-snake-dark.svg" />
