@@ -47,7 +47,14 @@ and build my own tools on the side.
 </tr>
 </table>
 
-**More MCP servers** · [ghost-mcp](https://github.com/j551n-ncloud/ghost-mcp) (Ghost blog: read, draft, upload; publishing stays manual) · [navidrome-mcp](https://github.com/j551n-ncloud/navidrome-mcp) (music library cleanup, dry run by default) · [tft-mcp](https://github.com/j551n-ncloud/tft-mcp) (Teamfight Tactics meta and coaching) · [blok-berichtsheft-mcp](https://github.com/j551n-ncloud/blok-berichtsheft-mcp) (fills out the BLok Ausbildungsnachweis via Playwright)
+### More MCP servers
+
+| Server | Connects Claude to | Good to know |
+|---|---|---|
+| [ghost-mcp](https://github.com/j551n-ncloud/ghost-mcp) | Ghost Admin API: search and read posts, write drafts, upload images | Publishing stays manual |
+| [navidrome-mcp](https://github.com/j551n-ncloud/navidrome-mcp) | Navidrome: duplicate songs, broken and doubled playlists, scans, plugins | Dry run by default, backup before every change |
+| [tft-mcp](https://github.com/j551n-ncloud/tft-mcp) | Teamfight Tactics: live meta comps, items, augments, pro positioning, coaching | No API keys needed |
+| [blok-berichtsheft-mcp](https://github.com/j551n-ncloud/blok-berichtsheft-mcp) | BLok Ausbildungsnachweis, filled out through Playwright | Works without an API, since BLok has none |
 
 ## Skills
 
